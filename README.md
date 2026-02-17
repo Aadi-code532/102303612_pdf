@@ -256,4 +256,3 @@ Open in Google Colab / Jupyter
 
 Run all cells
 
-If you want, I can suggest 3–4 more high-level research-style names that sound even stronger for resume or LinkedIn 🚀
